@@ -14,12 +14,6 @@ puts "  | X |   "
 puts "-----------"
 puts "  |   |   "
 
-
-  puts "   |   |   "
-  puts "-----------"
-  puts "   | X |   "
-  puts "-----------"
-  puts "   |   |   "
   #
   #
   # puts " X | X | X "
